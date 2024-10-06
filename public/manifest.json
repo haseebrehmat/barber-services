@@ -1,0 +1,17 @@
+{
+    "name": "Absolute Barber Shop VIP",
+    "short_name": "AbsoluteBarberShop VIP",
+    "start_url": "/index.php",
+    "background_color": "#6777ef",
+    "description": "Absolute Barber Shop VIP",
+    "display": "fullscreen",
+    "theme_color": "#6777ef",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
